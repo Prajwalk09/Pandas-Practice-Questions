@@ -25,23 +25,23 @@ This repository is organized into several folders, each dedicated to a specific 
 
 1. **[Pandas Series](./01.%20Pandas%20Series)**: Learn about pandas Series, indexing, and basic operations on Series.
 
-2. **[DataFrame-1](./02%20DataFrame-1)**: Introduction to DataFrames, creation, and simple manipulations.
+2. **[DataFrame-1](./02.%20DataFrame-1)**: Introduction to DataFrames, creation, and simple manipulations.
 
-3. **[DataFrame-2](./03%20DataFrame-2)**: Intermediate operations on DataFrames such as filtering, sorting, and handling missing data.
+3. **[DataFrame-2](./03.%20DataFrame-2)**: Intermediate operations on DataFrames such as filtering, sorting, and handling missing data.
 
-4. **[DataFrame-3](./04%20DataFrame-3)**: Advanced DataFrame techniques, including multi-indexing and hierarchical indexing.
+4. **[DataFrame-3](./04.%20DataFrame-3)**: Advanced DataFrame techniques, including multi-indexing and hierarchical indexing.
 
-5. **[Handling Text Data](./05%20Handling%20Text%20Data)**: Learn to handle text-based data in pandas, including string operations and regular expressions.
+5. **[Handling Text Data](./05.%20Handling%20Text%20Data)**: Learn to handle text-based data in pandas, including string operations and regular expressions.
 
-6. **[Multindex](./06%20Multindex)**: Working with multi-indexing in pandas to manage and manipulate hierarchical data.
+6. **[Multindex](./06.%20Multindex)**: Working with multi-indexing in pandas to manage and manipulate hierarchical data.
 
-7. **[GroupBy Object](./07%20GroupBy%20Object)**: Explore grouping data and performing aggregations with the `groupby` method.
+7. **[GroupBy Object](./07.%20GroupBy%20Object)**: Explore grouping data and performing aggregations with the `groupby` method.
 
-8. **[Merging, Joining, and Concatenating](./08%20Merging%20Joining%20and%20Concatenating)**: Techniques for combining data from multiple sources using merge, join, and concatenation.
+8. **[Merging, Joining, and Concatenating](./08.%20Merging%20Joining%20and%20Concatenating)**: Techniques for combining data from multiple sources using merge, join, and concatenation.
 
-9. **[Date and Time](./09%20Date%20and%20Time)**: Handling time series data, date parsing, and working with time-related operations.
+9. **[Date and Time](./09.%20Date%20and%20Time)**: Handling time series data, date parsing, and working with time-related operations.
 
-10. **[Data Visualization](./10%20Data%20Visualization)**: Visualizing data using pandas and integrating with libraries like matplotlib for enhanced plots.
+10. **[Data Visualization](./10.%20Data%20Visualization)**: Visualizing data using pandas and integrating with libraries like matplotlib for enhanced plots.
 
 ## Contributions and Feedback
 
