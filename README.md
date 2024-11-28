@@ -17,11 +17,9 @@ To make the most out of this repository, **first learn a concept** by following 
 
 The idea for this repository was inspired by the "**[pandas_exercises](https://github.com/guipsamora/pandas_exercises)**" repository. I really admired the concept behind it and wanted to build something similar, but with my own twist. While I’ve taken some inspiration from how that repository is structured, all the exercises and solutions here are entirely original — **no data** has been copied. My goal is to offer new challenges that help others apply their pandas knowledge in practical, real-world scenarios.
 
-# Index of Pandas Practice Exercises
-
-This repository is organized into several folders, each dedicated to a specific concept in pandas. Below is the index of all the topics with links to each respective directory.
 
 ## Folder Structure
+This repository is organized into several folders, each dedicated to a specific concept in pandas. Below is the index of all the topics with links to each respective directory.
 
 1. **[Pandas Series](./01.%20Pandas%20Series)**: Learn about pandas Series, indexing, and basic operations on Series.
 
