@@ -33,7 +33,7 @@ This repository is organized into several folders, each dedicated to a specific 
 
 5. **[Handling Text Data](./05.%20Handling%20Text%20Data)**: Learn to handle text-based data in pandas, including string operations and regular expressions.
 
-6. **[Multindex](./06.%20Multindex)**: Working with multi-indexing in pandas to manage and manipulate hierarchical data.
+6. **[Multindex](./06.%20MultIndex)**: Working with multi-indexing in pandas to manage and manipulate hierarchical data.
 
 7. **[GroupBy Object](./07.%20GroupBy%20Object)**: Explore grouping data and performing aggregations with the `groupby` method.
 
