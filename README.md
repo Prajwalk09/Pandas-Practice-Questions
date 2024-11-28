@@ -23,7 +23,7 @@ This repository is organized into several folders, each dedicated to a specific 
 
 ## Folder Structure
 
-1. **[Pandas Series](./01%20Pandas%20Series)**: Learn about pandas Series, indexing, and basic operations on Series.
+1. **[Pandas Series](./01.%20Pandas%20Series)**: Learn about pandas Series, indexing, and basic operations on Series.
 
 2. **[DataFrame-1](./02%20DataFrame-1)**: Introduction to DataFrames, creation, and simple manipulations.
 
